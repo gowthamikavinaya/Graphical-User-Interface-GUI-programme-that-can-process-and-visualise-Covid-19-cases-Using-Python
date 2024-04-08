@@ -1,0 +1,2 @@
+# Graphical-User-Interface-GUI-programme-that-can-process-and-visualise-Covid-19-cases-Using-Python
+The source of the covid data is from the website administered by the UK government and the other data ‘Stop and Search’ is retrieved from publicly available police data on the web portal (https://data.police.uk/docs/method/stops-force/ ). The application is written in Python and the GUI is created with the Tkinter Python module.
